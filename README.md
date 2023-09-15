@@ -2,7 +2,7 @@
 Unity Word Puzzle Game
 
 -Target resolution: 1080x1920\
--Ability to move in eight directions\
+-Ability to move in eight directions
 
 ![ss](https://github.com/rfazmn/word-puzzle-game/assets/32778959/50207c8d-61e6-4d4b-aa56-6ce5ebae3d6e)
 
